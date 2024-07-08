@@ -585,6 +585,9 @@ body{
         border-radius: 0;
         
     }
+    .newsletter-content{
+        padding: 1rem 0;
+    }
     .news-left{
         display: none;
     }
