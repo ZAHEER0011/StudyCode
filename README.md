@@ -1,6 +1,8 @@
 # StudyCode
 This repository contains the code for StudyCode, a fictional educational platform for coding and programming. The website is designed to showcase features, feedback, services, and more about StudyCode. It is built entirely using HTML and CSS for practice and sample purposes.
 
+Link of StudyCode Website - https://zaheer0011.github.io/StudyCode/
+
 Features
 
     - Home Page: Introduction to StudyCode with an overview of the platform.
